@@ -1,0 +1,4 @@
+build:
+  pythonVersion: 3.11.11
+  buildCommand: poetry install
+start: poetry run python app.py
